@@ -1,0 +1,16 @@
+h1.title {
+	text-align:center;
+}
+
+div.centered {
+	text-align:center;
+}
+
+h1#head {
+	text-align:center;
+	background-color:lightGray;
+	color:white;
+	height:85px;
+	margin-bottom:15px;
+}
+
